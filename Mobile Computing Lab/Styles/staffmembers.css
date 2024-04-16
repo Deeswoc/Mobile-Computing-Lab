@@ -1,0 +1,23 @@
+﻿.plane-bg {
+    background-image: url(/Images/bg-2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100%;
+    width: 100%;
+    opacity:0.2;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index:-1;
+}
+
+body {
+    background-color: #323949;
+    color: white;
+    font-family: 'Archivo Narrow', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Julius Sans One', sans-serif;
+}
